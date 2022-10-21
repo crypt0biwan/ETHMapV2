@@ -1,4 +1,11 @@
-# ETHMap
+# ETHMap V2 (forked from V1)
+
+# ⚠️ Use at your own risk, this is another version than the one supported by the dev. For the original v1 see https://github.com/willdn/ETHMap
+
+DYOR ✌️
+
+## Original README ⬇️
+---
 
 ETHMap is a Decentralized Application (ÐApp) running on Ethereum blockchain.
 

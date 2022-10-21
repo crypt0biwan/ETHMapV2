@@ -2,9 +2,12 @@
   <div class="ui menu top-header">
       <router-link :to="{ name: 'Main'}" class="header item icon-hover">
         <img class="ui image" :src="require('@/assets/icon.png')" />
-        ETHMap
+        ETHMap V2
       </router-link>
       <div class="right menu">
+        <a class="item" href="https://willdn.github.io/ETHMap" target="_blank">
+          ⚠️&nbsp;&nbsp;<strong>DYOR!! This isn't a supported version by the dev, original version: https://willdn.github.io/ETHMap</strong>&nbsp;&nbsp;⚠️
+        </a>
         <a class="item" href=""
             @click.prevent="openZoneListModal()">
           <i class="fa fa-globe"></i>
